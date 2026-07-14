@@ -111,3 +111,9 @@ If you find DataNova helpful, please cite the relevant papers:
 ## License
 
 The license will be added soon.
+
+## Star History
+
+<a href="https://www.star-history.com/#usail-hkust/DataNova&Date">
+  <img src="https://api.star-history.com/svg?repos=usail-hkust/DataNova&type=Date" alt="DataNova Star History Chart" />
+</a>
