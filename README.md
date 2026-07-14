@@ -40,11 +40,11 @@ DataNova currently covers five connected directions:
 
 | Project | Description | Venue | Status |
 | :-- | :-- | :-- | :-- |
-| **MM-Agent** | LLM agents for solving real-world mathematical modeling problems with perception, reasoning, and tool operation. | NeurIPS 2025 | Paper |
-| **Multimodal Discovery** | Multimodal data-driven scientific discovery powered by LLM agents. | ICLR 2026 | Paper |
-| **EvoDS** | A self-evolving autonomous data science agent with capability learning and context management. | KDD 2026 | Paper |
-| **Foundation Models for Scientific Discovery** | A survey and perspective on foundation models for scientific discovery, from paradigm enhancement to paradigm transition. | NeurIPS 2025 | Paper |
-| **DS-Lighting** | A framework for making agent harnesses explicit in data-science automation. | KDD 2026 AIDataSci Workshop | Paper |
+| **[MM-Agent](https://proceedings.neurips.cc/paper_files/paper/2025/file/1ddd6c6909c2a7acf877ce0f84abf6eb-Paper-Conference.pdf)** | LLM agents for solving real-world mathematical modeling problems with perception, reasoning, and tool operation. | NeurIPS 2025 | Paper |
+| **[Multimodal Discovery](https://openreview.net/forum?id=kZHSvETWdi)** | Multimodal data-driven scientific discovery powered by LLM agents. | ICLR 2026 | Paper |
+| **[EvoDS](https://arxiv.org/abs/2606.03841)** | A self-evolving autonomous data science agent with capability learning and context management. | KDD 2026 | Paper |
+| **[Foundation Models for Scientific Discovery](https://arxiv.org/abs/2510.15280)** | A survey and perspective on foundation models for scientific discovery, from paradigm enhancement to paradigm transition. | NeurIPS 2025 | Paper |
+| **[DS-Lighting](https://openreview.net/forum?id=K7ohsDwj1m)** | A framework for making agent harnesses explicit in data-science automation. | KDD 2026 AIDataSci Workshop | Paper |
 
 ## Roadmap
 
