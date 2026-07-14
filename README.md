@@ -6,9 +6,13 @@
 
 <div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/luckyfan-cs/DataNova)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/usail-hkust/DataNova)
 [![License](https://img.shields.io/badge/License-TBD-lightgrey.svg)](#license)
-![Last Commit](https://img.shields.io/github/last-commit/luckyfan-cs/DataNova?color=green)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=usail-hkust.DataNova)
+![Stars](https://img.shields.io/github/stars/usail-hkust/DataNova?style=social)
+![Forks](https://img.shields.io/github/forks/usail-hkust/DataNova?style=social)
+![Issues](https://img.shields.io/github/issues/usail-hkust/DataNova)
+![Last Commit](https://img.shields.io/github/last-commit/usail-hkust/DataNova?color=green)
 
 </div>
 
