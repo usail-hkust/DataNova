@@ -36,7 +36,8 @@ DataNova currently covers five connected directions:
 
 ## News
 
-- **[2026]** DataNova expands toward self-evolving autonomous data-science agents with **EvoDS** and explicit agent harness design with **DS-Lighting**.
+- **[2026]** **EvoDS** is accepted to **KDD 2026**.
+- **[2026]** **DS-Lighting** is accepted to the **KDD 2026 Workshop on AI for Data Science (AIDataSci)**.
 - **[2026]** Multimodal data-driven scientific discovery powered by LLM agents is accepted to **ICLR 2026**.
 - **[2025]** **MM-Agent** and **Foundation Models for Scientific Discovery** are accepted to **NeurIPS 2025**.
 
