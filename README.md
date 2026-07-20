@@ -26,16 +26,18 @@
 
 **DataNova** is a research project family for building and understanding autonomous data-science agents. The project explores how LLM agents perceive multimodal data, reason with scientific and mathematical modeling workflows, operate tools and environments, and evolve their capabilities through experience.
 
-DataNova currently covers five connected directions:
+DataNova currently covers six connected directions:
 
 - **Real-world mathematical modeling** with LLM-based agents.
 - **Multimodal scientific discovery** powered by data-driven agent systems.
 - **Self-evolving autonomous data science** through capability learning and context management.
+- **Data science world models** for efficient autonomous agents and low-cost environment simulation.
 - **Foundation models for scientific discovery** from paradigm enhancement to paradigm transition.
 - **Explicit agent harnesses** for reliable data-science automation.
 
 ## News
 
+- **[2026]** **DSWorld** is released on **arXiv**.
 - **[2026]** **EvoDS** is accepted to **KDD 2026**.
 - **[2026]** **DS-Lighting** is accepted to the **KDD 2026 Workshop on AI for Data Science (AIDataSci)**.
 - **[2026]** Multimodal data-driven scientific discovery powered by LLM agents is accepted to **ICLR 2026**.
@@ -48,6 +50,7 @@ DataNova currently covers five connected directions:
 | **[MM-Agent](https://proceedings.neurips.cc/paper_files/paper/2025/file/1ddd6c6909c2a7acf877ce0f84abf6eb-Paper-Conference.pdf)** | LLM agents for solving real-world mathematical modeling problems with perception, reasoning, and tool operation. | NeurIPS 2025 | Paper |
 | **[Multimodal Discovery](https://openreview.net/forum?id=kZHSvETWdi)** | Multimodal data-driven scientific discovery powered by LLM agents. | ICLR 2026 | Paper |
 | **[EvoDS](https://arxiv.org/abs/2606.03841)** | A self-evolving autonomous data science agent with capability learning and context management. | KDD 2026 | Paper |
+| **[DSWorld](https://arxiv.org/abs/2607.15901)** | A data science world model for efficient autonomous agents through transition prediction, cost-aware routing, and LLM-based simulation. | arXiv 2026 | [Code](https://anonymous.4open.science/r/DSWorld) |
 | **[Foundation Models for Scientific Discovery](https://arxiv.org/abs/2510.15280)** | A survey and perspective on foundation models for scientific discovery, from paradigm enhancement to paradigm transition. | NeurIPS 2025 | Paper |
 | **[DS-Lighting](https://openreview.net/forum?id=K7ohsDwj1m)** | A framework for making agent harnesses explicit in data-science automation. | KDD 2026 AIDataSci Workshop | Paper |
 
@@ -87,6 +90,16 @@ If you find DataNova helpful, please cite the relevant papers:
   booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
   year      = {2026},
   address   = {Jeju, South Korea}
+}
+
+@misc{yang2026dsworld,
+  title        = {{DSWorld}: A Data Science World Model for Efficient Autonomous Agents},
+  author       = {Zherui Yang and Fan Liu and Hao Liu},
+  year         = {2026},
+  eprint       = {2607.15901},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.AI},
+  url          = {https://arxiv.org/abs/2607.15901}
 }
 
 @inproceedings{liu2025foundationmodels,
